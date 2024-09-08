@@ -1,5 +1,5 @@
 # Task 1: Code Correction Below is a piece of Python code with incorrect indentation. 
-# Your task is to correct it.
+# Your task is to correct it..
 
 weather = "sunny"
 
