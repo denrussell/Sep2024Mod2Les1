@@ -10,6 +10,6 @@ Your task is to correct them:
 '''
 
 PI = 3.14
-userAge = 25
+user_age = 25
 user_location = "New York"
 MAXLIMIT = 1000
